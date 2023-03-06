@@ -11,7 +11,7 @@ function CityInput() {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        const api_key = "3d229644ced354443aa2bbd02d3bb62d";
+        const api_key = apiKey;
         const city = e.target.city.value;
 
         axios
