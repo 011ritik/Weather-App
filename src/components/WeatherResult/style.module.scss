@@ -1,0 +1,37 @@
+.result-div{
+    padding: 2rem;
+}
+
+.weather-card{
+    padding: 1rem;
+    max-height: 25rem;
+    background-color: #282c34 !important;
+    color: #fff;
+    border: none !important;
+    width: 80%;
+    text-align: left;
+}
+
+.city-name{
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.temperature{
+    font-size: 3rem;
+    margin-bottom: 0 !important;
+    padding-top: 3rem !important;
+    font-weight: 700;
+}
+
+.weather-image{
+    width: 100%;
+}
+
+.weather-description{
+    text-transform: capitalize;
+}
+
+.weather-details p{
+    margin-bottom: 0.5rem !important;
+}
